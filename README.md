@@ -10,10 +10,10 @@
 ## Analysis
 
 The Exploratory Data Analysis answers such as 
-    - Which type of content is more on the platform ?
-    - Which countries produces the maximum content ?
-    - The growth trend of the content on the platform.
-    - If a new movie or tv show was to be released, which months would be good to do so.
-    - And many more.
+-  Which type of content is more on the platform ?
+-  Which countries produces the maximum content ?
+-  The growth trend of the content on the platform.
+-  If a new movie or tv show was to be released, which months would be good to do so.
+-  And many more.
 
 
